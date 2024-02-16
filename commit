@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+
+echo $1 >> README.md
+git add .
+git commit -m "$1"
