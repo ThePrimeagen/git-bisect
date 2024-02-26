@@ -4,5 +4,5 @@
  * @return {number}
  */
 export function foo(x) {
-    return x * 70;
+    return x * 69;
 }
